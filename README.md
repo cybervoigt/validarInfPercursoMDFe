@@ -16,9 +16,9 @@ Validações SEM percurso:
 Validações COM percurso:
 3) nem UF ini nem UF fim devem estar selecionadas no percurso.
 4) a primeira UF da lista deve fazer divisa com a UF inicial (carregamento)
-5) entre as UF selecionadas, cada UF deve fazer divisa
-   com a UF seguinte, na ordem de cima para baixo.
+5) entre as UF selecionadas, cada UF deve fazer divisa com a UF seguinte, na ordem de cima para baixo.
 6) a ultima UF da lista deve fazer divisa com a UF final (descarregamento)
+
 
 Este pequeno projeto foi desenvolvido inicialmente para servir de base para o cadastramento dos possíveis percursos, em um sistema de gestão e emissão de documentos fiscais eletrônicos (NF-e,MDF-e,CT-e...), e compartilhado no fórum do Projeto ACBr, conforme link abaixo:
 
