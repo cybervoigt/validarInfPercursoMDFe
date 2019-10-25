@@ -25,7 +25,11 @@ Validações COM percurso:
 
 
 
-Este pequeno projeto foi desenvolvido inicialmente para servir de base para o cadastramento dos possíveis percursos, em um sistema de gestão e emissão de documentos fiscais eletrônicos (NF-e,MDF-e,CT-e...), e compartilhado no fórum do Projeto ACBr, conforme link abaixo:
+Este pequeno projeto foi desenvolvido em Lazarus/FreePascal (http://lazarus-ide.org/) inicialmente para servir de base para o cadastramento dos possíveis percursos, em um sistema de gestão e emissão de documentos fiscais eletrônicos (NF-e,MDF-e,CT-e...), e compartilhado no fórum do Projeto ACBr, conforme link abaixo:
 
 https://www.projetoacbr.com.br/forum/topic/36016-apenas-uma-ideia-para-validar-uf-percurso/
+
+Basicamente, foi montada uma classe TUF (uufclass.pas), onde para cada objeto de UF criado, ele cria uma lista, em um vetor, de outros objetos de UF, que fazem divisa com este.
+Também tem um Form mostrando como o usuário informaria as UF inicial e final, assim como selecionar (TCheckListBox) quais unidades da federação (UF) estão no percurso. Também é possível ordenar as UFs (TListBox).
+Por último, foi feito uma "perfumaria", desenhando o percurso selecionado, no mapa do Brasil (TImage).
 
