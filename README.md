@@ -2,8 +2,9 @@
 Apenas uma ideia para validar UF percurso
 
 O Manifesto Eletrônico de Documentos Fiscais (MDFe) é um dos documentos fiscais eletrônicos emitidos no Brasil.
+https://dfe-portal.svrs.rs.gov.br/Mdfe
 
-Uma das regras de validação realizadas durante a emissão deste documento é sobre o percurso interestadual, quando a Unidade da Federação (UF) de origem for diferente da UF de destino, referente ao transporte da carga.
+Uma das regras de validação realizadas durante a emissão deste documento é sobre o percurso interestadual, quando a Unidade da Federação (UF) de origem for diferente da UF de destino, referente ao carregamento, transporte e descarregamento da carga.
 
 Segue abaixo um resumo desta validação:
 
