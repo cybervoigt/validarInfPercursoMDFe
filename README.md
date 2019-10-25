@@ -20,6 +20,7 @@ Validações COM percurso:
 6) a ultima UF da lista deve fazer divisa com a UF final (descarregamento)
 
 
+
 Este pequeno projeto foi desenvolvido inicialmente para servir de base para o cadastramento dos possíveis percursos, em um sistema de gestão e emissão de documentos fiscais eletrônicos (NF-e,MDF-e,CT-e...), e compartilhado no fórum do Projeto ACBr, conforme link abaixo:
 
 https://www.projetoacbr.com.br/forum/topic/36016-apenas-uma-ideia-para-validar-uf-percurso/
