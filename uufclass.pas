@@ -104,7 +104,7 @@ begin
   begin
     setLength(FDivisas, 3);
     FDivisas[ 0 ] := 'RJ';
-    FDivisas[ 1 ] := 'MS';
+    FDivisas[ 1 ] := 'MG';
     FDivisas[ 2 ] := 'BA';
   end
   else
