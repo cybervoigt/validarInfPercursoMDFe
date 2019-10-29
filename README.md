@@ -26,7 +26,7 @@ Validações COM percurso:
 
 
 
-Este pequeno projeto foi desenvolvido em Lazarus/FreePascal (http://lazarus-ide.org/) inicialmente para servir de base para o cadastramento dos possíveis percursos, em um sistema de gestão e emissão de documentos fiscais eletrônicos (NF-e,MDF-e,CT-e...), e compartilhado no fórum do Projeto ACBr, conforme link abaixo:
+Este pequeno projeto foi desenvolvido em Lazarus/FreePascal (http://lazarus-ide.org/) inicialmente para servir de base para o cadastramento dos possíveis percursos interestaduais, em um sistema de gestão e emissão de documentos fiscais eletrônicos (NF-e,MDF-e,CT-e...), e foi também compartilhado no fórum do Projeto ACBr, conforme link abaixo:
 
 https://www.projetoacbr.com.br/forum/topic/36016-apenas-uma-ideia-para-validar-uf-percurso/
 
