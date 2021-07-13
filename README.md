@@ -34,3 +34,5 @@ Basicamente, foi montada uma classe TUF (uufclass.pas), onde para cada objeto de
 Também tem um Form mostrando como o usuário informaria as UF inicial e final, assim como selecionar (TCheckListBox) quais unidades da federação (UF) estão no percurso. Também é possível ordenar as UFs (TListBox).
 Por último, foi feito uma "perfumaria", desenhando o percurso selecionado, no mapa do Brasil (TImage).
 
+![valida_percurso (1)](https://user-images.githubusercontent.com/57003640/125449209-cf9bbcd3-5ec6-410c-9cbe-34c804ed5bb7.jpg)
+
