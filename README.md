@@ -1,5 +1,5 @@
 # validarInfPercursoMDFe
-Apenas uma ideia para validar UF percurso
+Apenas uma ideia para validar campo "UF percurso" do MDF-e.
 
 O Manifesto Eletrônico de Documentos Fiscais (MDFe) é um dos documentos fiscais eletrônicos emitidos no Brasil.
 https://dfe-portal.svrs.rs.gov.br/Mdfe
