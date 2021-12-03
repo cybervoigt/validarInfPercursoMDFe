@@ -6,6 +6,17 @@ https://dfe-portal.svrs.rs.gov.br/Mdfe
 
 Uma das regras de validação realizadas durante a emissão deste documento é sobre o percurso interestadual, quando a Unidade da Federação (UF) de origem for diferente da UF de destino, referente ao carregamento, transporte e descarregamento da carga.
 
+
+
+[EN]
+The MDFe (eletronic Manifest of tax documents) is a Brazilian eletronic tax document, related to the transportation of products.
+
+One of the validations is about the path of the transportation, through the federative units.
+
+
+
+
+
 Segue abaixo um resumo desta validação:
 
 Validações SEM percurso:
